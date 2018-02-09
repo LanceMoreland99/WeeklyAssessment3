@@ -3,6 +3,9 @@ package com.company.Question_1;
 public class Main {
 
     public static void main(String[] args) {
+
+
+
         /*
         1. Create 2 classes that would have things in common in this package.
         2. Create at least 2 variables for each class.

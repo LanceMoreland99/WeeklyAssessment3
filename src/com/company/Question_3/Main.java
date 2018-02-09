@@ -3,6 +3,9 @@ package com.company.Question_3;
 public class Main {
 
     public static void main(String[] args) {
+
+        Switch switchStatement = new Switch();
+        switchStatement.qestionaire();
         /*
         1. Create a switch statement in its own method in the Switch class in this package.
         This switch statement should take a string and have 4 cases it could match.

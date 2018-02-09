@@ -10,10 +10,10 @@ public class Main {
          */
 
 
-        /* ANSWER QUESTION HERE:
 
 
+            /**  an  abstract class makes it so that  it can not be instantiated, meaning you cannot create a running program of what is inside that class. but you can extend and make the abstract class a sub class. **/
 
-         */
+
     }
 }
